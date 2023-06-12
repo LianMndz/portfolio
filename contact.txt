@@ -12,5 +12,11 @@
 <h3> Contact </h3>
 +63 916 035 5432 <br>
 lian.mendoza@benilde.edu.ph
-</body>
+</body> <br> <br> <br>
+<footer> 
+<center>
+  <p>Author: Lian Mendoza </p>
+  <p>Copyright 2023</p>
+</center>
+</footer>
 </html>
