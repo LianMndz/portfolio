@@ -1,6 +1,7 @@
 <html>
 <head>
-<h1> Lian Mae Hanabi Hammerhead Mendoza </h1>
+<title> Lian Mendoza Art Portfolio </title>
+<h1> Welcome to Lian's Art Gallery! </h1>
 <ul>
 <li> <a href="index.html"> About Me </a> </li>
 <li> <a href="skills.html"> Skills </a> </li>
@@ -10,8 +11,7 @@
 <body>
 <h3> Skills </h3>
 <ol>
-<li> can play ml </li>
-<li> can play valorant </li>
+<li> Digital Art </li>
 </ol>
 </body>
 </html>
