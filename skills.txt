@@ -1,23 +1,22 @@
 <html>
 <head>
 <title> Lian Mendoza Art Portfolio </title>
-<ul>
-<li> <a href="index.html"> About Me </a> </li>
-<li> <a href="skills.html"> Skills </a> </li>
-<li> <a href="contact.html"> Contact Information </a> </li>
-</ul>
+<a href="index.html"> About Me </a> <br>
+<a href="skills.html"> Skills </a> <br>
+<a href="contact.html"> Contact </a> <br>
 </head>
 <body>
-<center> <h1> Welcome to Lian's Art Gallery! </h1> 
-<h3> About Me </h3>
-Digital Art
-Character Design
-3D Modeling
+<center> <h1> Lian Mendoza </h1>
+<h3> Digital Artist </h3> <br>
+<p> Skills <p>
+Digital Art <br>
+Character Design <br>
+3D Modeling <br>
 </center> </body> <br> <br> <br>
 <footer> 
 <center>
-  <p>Author: Lian Mendoza </p>
-  <p>Copyright 2023</p>
+Author: Lian Mendoza <br>
+Copyright 2023
 </center>
 </footer>
 </html>

@@ -1,29 +1,27 @@
 <html>
 <head>
 <title> Lian Mendoza Art Portfolio </title>
-<ul>
-<li> <a href="index.html"> About Me </a> </li>
-<li> <a href="skills.html"> Skills </a> </li>
-<li> <a href="contact.html"> Contact Information </a> </li>
-</ul>
+<a href="index.html"> About Me </a> <br>
+<a href="skills.html"> Skills </a> <br>
+<a href="contact.html"> Contact </a> <br>
 </head>
 <body>
-<center> <h1> Welcome to Lian's Art Gallery! </h1> 
-<h3> About Me </h3>
-<p> I am passionate about bringing my ideas to life, creating illustrations and digital art while being a 4th-year student at De Lasalle College of Saint Benilde. Need someone to design a character for your new animated tv series? Let's start and see what I can bring to the table. </p> 
+<center> <h1> Lian Mendoza </h1>
+<h3> Digital Artist </h3>
+<p> I am passionate about bringing my ideas to life, creating illustrations and digital art while <br> 
+being a 4th-year student at De Lasalle College of Saint Benilde. Need someone to design a character <br> 
+for your new animated tv series? Let's start and see what I can bring to the table. </p> <br>
 <center> <h1> Welcome to Lian's Art Gallery! </h1> 
 <p> Digital Art </p> 
-<img src=d1.jpg> <br>
-<img src=d2.jpg> <br>
-<img src=d3.jpg> <br> <br>
+<img src=d1.png> <br> <br>
 <p> Character Design </p> 
-<img src=c1.png> <br>
-<img src=c2.png> <br>
-<img src=c3.jpg> <br> <br>
+<img src=c1.png>
+<img src=c3.png>
+<img src=c2.png> <br> <br>
 <p> 3D Modeling </p> 
-<img src=m1.jpg> <br>
-<img src=m2.jpg> <br>
-<img src=m3.jpg> <br> <br>
+<img src=m2.png>
+<img src=m1.png>
+<img src=m3.png> <br> <br>
 </center> </body> <br> <br> <br>
 <footer> 
 <center>
