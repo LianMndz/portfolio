@@ -11,6 +11,19 @@
 <center> <h1> Welcome to Lian's Art Gallery! </h1> 
 <h3> About Me </h3>
 <p> I am passionate about bringing my ideas to life, creating illustrations and digital art while being a 4th-year student at De Lasalle College of Saint Benilde. Need someone to design a character for your new animated tv series? Let's start and see what I can bring to the table. </p> 
+<center> <h1> Welcome to Lian's Art Gallery! </h1> 
+<p> Digital Art </p> 
+<img src=d1.jpg> <br>
+<img src=d2.jpg> <br>
+<img src=d3.jpg> <br> <br>
+<p> Character Design </p> 
+<img src=c1.png> <br>
+<img src=c2.png> <br>
+<img src=c3.jpg> <br> <br>
+<p> 3D Modeling </p> 
+<img src=m1.jpg> <br>
+<img src=m2.jpg> <br>
+<img src=m3.jpg> <br> <br>
 </center> </body> <br> <br> <br>
 <footer> 
 <center>
