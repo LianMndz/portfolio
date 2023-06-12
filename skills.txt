@@ -11,7 +11,18 @@
 <body>
 <h3> Skills </h3>
 <ol>
-<li> Digital Art </li>
+<li> Digital Art </li> <br>
+<img src=d1.jpg> <br>
+<img src=d2.jpg> <br>
+<img src=d3.jpg> <br>
+<li> Character Design </li> <br>
+<img src=c1.png> <br>
+<img src=c2.png> <br>
+<img src=c3.jpg> <br>
+<li> 3D Modeling </li> <br>
+<img src=m1.jpg> <br>
+<img src=m2.jpg> <br>
+<img src=m3.jpg> <br>
 </ol>
 </body>
 </html>
