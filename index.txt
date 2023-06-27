@@ -15,9 +15,9 @@ for your new animated tv series? Let's start and see what I can bring to the tab
 <p> Digital Art </p> 
 <img src=d1.png> <br> <br>
 <p> Character Design </p> 
-<img src=c1.png>
+<img src="c1.png">
 <img src=c3.png>
-<img src=c2.png> <br> <br>
+<img src="c2.png"> <br> <br>
 <p> 3D Modeling </p> 
 <img src=m2.png>
 <img src=m1.png>
